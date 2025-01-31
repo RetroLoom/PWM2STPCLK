@@ -11,6 +11,6 @@ https://github.com/scrapcomputing/ThrottleBlaster
 
 The PWM2STPCLK can mount directly to a standoff point from an ATX motherboard allowing for direct grounding and securing to the chassis. This allows placement of the STPCLK pin wiring to be close to CPU and guarded from strain. A standard PWM fan controller can be used for simplicity, but plans for developing dedicated controllers and adapting the ThrottleBlaster is on-going. 
 
-<img src='Images/DSC_1710.jpg' width=480>
-<img src='Images/DSC_1711.jpg' width=480>
-<img src='Images/DSC_1715.jpg' width=480>
+<img src='Images/DSC_1710.JPG' width=480>
+<img src='Images/DSC_1711.JPG' width=480>
+<img src='Images/DSC_1715.JPG' width=480>
